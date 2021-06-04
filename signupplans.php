@@ -156,7 +156,7 @@
              <br>
              <br>    
               </ul>
-              <a href="/signup free" class="btn btn-block  btn1"> <span class="span"> Sign Up</span></a>
+              <a href="/signup free.php" class="btn btn-block  btn1"> <span class="span"> Sign Up</span></a>
             </div>
           </div>
         </div>
@@ -185,7 +185,7 @@
                   <li><span class="fa-li"><i class="fas fa-star" style="color: #DAA520"></i></span> Assessment & tracking tools</li> 
                   <li><span class="fa-li"><i class="fas fa-star"style="color: #DAA520"></i></span>  Step by Step guide for each study design</li>
               </ul>
-              <a href="/signup Plus" class="btn btn-block btn1"> <span class="span">Sign Up</span> </a>
+              <a href="/signup Plus.php" class="btn btn-block btn1"> <span class="span">Sign Up</span> </a>
             </div>
           </div>
         </div>
@@ -208,7 +208,7 @@
   
       
               </ul>
-              <a href="signup Pro" class="btn btn-block  btn1"> <span class="span">Reserve a Spot</span> </a>
+              <a href="/signup Pro.php" class="btn btn-block  btn1"> <span class="span">Reserve a Spot</span> </a>
             </div>
           </div>
         </div>

@@ -90,7 +90,7 @@ session_start();
                         <input type="text" class="form-control" name="email" placeholder="Email" required="required">
                     </div>
                 </div>
-                <div class="form-group">
+                <!-- <div class="form-group">
                     <div class="input-group">
                         <div class="input-group-prepend">
                             <span class="input-group-text">
@@ -99,7 +99,7 @@ session_start();
                         </div>
                         <input type="password" class="form-control" name="password" placeholder="Password" required="required">
                     </div>
-                </div>
+                </div> -->
                 <div class="form-group">
                     <button type="submit" name="submit" class="btn btn-success btn-block login-btn">SIGN UP</button>
                 </div>
