@@ -164,7 +164,7 @@ ul li i{
                         <a class="nav-link" href="#ContactUs">Contact Us</a>
                     </li>
                     <li class="nav-item">
-                        <button type="submit" onClick="parent.location='signupplans.php' " class="btn btn-outline-secondary a">Sign Up</button>
+                        <button type="submit" onClick="parent.location='#Subscription Plans' " class="btn btn-outline-secondary a">Sign Up</button>
                     </li>
                 </ul>
 
@@ -189,7 +189,7 @@ ul li i{
         ?>
         <div class="content text-center landing-text">
             <h1 class="text-white  animate__animated animate__slideInDown animate__fast">Research ... Innovate </h1>
-            <a href="login.php" class="btn btn-outline-secondary btn-xl btnn  animate__animated animate__flipInX">GET
+            <a href="#Subscription Plans" class="btn btn-outline-secondary btn-xl btnn  animate__animated animate__flipInX">GET
                 STARTED</a>
         </div>
     </div>
@@ -223,7 +223,7 @@ ul li i{
 <!--section3   cards -->
 <section class="pricing py-5  animate__animated animate__fadeInLeft animate__delay-1s">
   <div class="container">
-<h1 class="text-center" style="margin-bottom: 
+<h1 class="text-center" id="Subscription Plans" style="margin-bottom: 
  50px">Subscription Plans</h1>
   
     <div class="row">
@@ -341,7 +341,7 @@ ul li i{
                     <div class="col-lg-4 col-md-3" id="ContactUs">
                         <h5>Join Now</h5>
                         <ul class="list-unstyled three-columns">
-                            <a href="./signupplans.php">
+                            <a href="#Subscription Plans">
                                 <li>Sign Up</li>
                             </a>
                         </ul>

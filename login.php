@@ -42,7 +42,7 @@ session_start();
                         <a class="nav-link" href="#ContactUs">Contact Us</a>
                     </li>
                     <li class="nav-item">
-                        <button type="submit" onClick="parent.location='signup.php' " class="btn btn-outline-secondary a">Sign Up</button>
+                        <button type="submit" onClick="parent.location='signupplans.php' " class="btn btn-outline-secondary a">Sign Up</button>
                     </li>
                 </ul>
             </div>
@@ -82,9 +82,9 @@ session_start();
                     <button type="submit" name="submit" class="btn btn-success btn-block login-btn">LOG IN</button>
                 </div>
                 <div class="clearfix">
-                    <a href="./signupplans.php" class="float-right text-success">sign up?</a>
+                    <a href="/index.php" class="float-right text-success">sign up?</a>
                 </div>
-<<<<<<< HEAD
+
                 <?php  if (isset($_GET["error"])) {
      if ($_GET["error"]== "emptyinput") {
         echo "<p>Fill in all feild!</p>";
@@ -96,7 +96,7 @@ session_start();
      
  }
  ?>
-=======
+
                 <?php if (isset($_GET["error"])) {
                     if ($_GET["error"] == "emptyInput") {
                         echo "<p>Fill in all feild!</p>";
@@ -105,7 +105,7 @@ session_start();
                     }
                 }
                 ?>
->>>>>>> 05b99feea0bb17ab36e8d84a123fadc7d1eb2c19
+
             </form>
         </div>
     </div>
