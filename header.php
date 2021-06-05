@@ -13,5 +13,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <!--   external css-->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="images/pencil-icon.png">
     <title>Evisimple</title>
 </head>
