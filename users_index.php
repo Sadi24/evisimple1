@@ -36,11 +36,13 @@ if (isset($_SESSION['user_type'])) {
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#AboutUs">About</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#Services">Services<span class="sr-only">(current)</span></a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#AboutUs">About</a>
+                    </li>
+               
                     <li class="nav-item">
                         <a class="nav-link" href="#ContactUs">Contact Us</a>
                     </li>
