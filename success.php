@@ -13,6 +13,7 @@ session_start();
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
 />
     <link rel="stylesheet" href="css/style3.css">
+    <link rel="icon" href="images/pencil-icon.png">
     
 </head>
 <body>
