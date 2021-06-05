@@ -17,6 +17,7 @@ session_start();
 />
 <!--   external css-->
    <link rel="stylesheet" href="css/style1.css">
+   <link rel="icon" href="images/pencil-icon.png">
 
     <title>Evisimple</title>
        
@@ -33,12 +34,14 @@ session_start();
         <div class="collapse navbar-collapse" id="navbarNav">
         <div class="mx-auto"></div>
         <ul class="navbar-nav">
-        <li class="nav-item">
-        <a class="nav-link" href="#AboutUs">About</a>
-        </li>
+
         <li class="nav-item">
         <a class="nav-link" href="#Services">Services<span class="sr-only">(current)</span></a>
             </li>
+        <li class="nav-item">
+        <a class="nav-link" href="#AboutUs">About</a>
+        </li>
+    
             <li class="nav-item">
                 <a class="nav-link" href="#ContactUs">Contact Us</a>
             </li>
