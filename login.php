@@ -42,7 +42,7 @@ session_start();
                         <a class="nav-link" href="#ContactUs">Contact Us</a>
                     </li>
                     <li class="nav-item">
-                        <button type="submit" onClick="parent.location='signupplans.php' " class="btn btn-outline-secondary a">Sign Up</button>
+                        <button type="submit" onClick="parent.location='index.php' " class="btn btn-outline-secondary a">Sign Up</button>
                     </li>
                 </ul>
             </div>

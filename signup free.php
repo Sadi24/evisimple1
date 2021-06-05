@@ -43,7 +43,7 @@ session_start();
                 <a class="nav-link" href="#ContactUs">Contact Us</a>
             </li>
             <li class="nav-item">
-            <button type="submit" onClick="parent.location='login.html' " class="btn btn-outline-secondary a">Sign Up</button></li>
+            <button type="submit" onClick="parent.location='index.php' " class="btn btn-outline-secondary a">Sign Up</button></li>
         </ul>
     </div>
 </nav> 
@@ -88,7 +88,7 @@ session_start();
                 <input type="text" class="form-control" name="email" placeholder="Email" required="required">
             </div>
         </div>
-		<div class="form-group">
+		<!-- <div class="form-group">
             <div class="input-group">
                 <div class="input-group-prepend">
                     <span class="input-group-text">
@@ -97,7 +97,7 @@ session_start();
                 </div>
                 <input type="password" class="form-control" name="password" placeholder="Password" required="required">
             </div>
-        </div>        
+        </div>         -->
         <div class="form-group">
             <button  type="submit" name="submit"  class="btn btn-success btn-block login-btn">SIGN UP</button>
         </div>
