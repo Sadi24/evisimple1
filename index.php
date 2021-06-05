@@ -154,12 +154,14 @@ ul li i{
 
                     }
                     ?>
+
+<li class="nav-item">
+                        <a class="nav-link" href="#Services">Services<span class="sr-only">(current)</span></a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#AboutUs">About</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#Services">Services<span class="sr-only">(current)</span></a>
-                    </li>
+               
                     <li class="nav-item">
                         <a class="nav-link" href="#ContactUs">Contact Us</a>
                     </li>
@@ -221,7 +223,7 @@ ul li i{
     </div>
 
 <!--section3   cards -->
-<section class="pricing py-5  animate__animated animate__fadeInLeft animate__delay-1s">
+<section class="pricing py-5  animate__animated animate__fadeInLeft animate__delay-1s"id="joinNow">
   <div class="container">
 <h1 class="text-center" id="Subscription Plans" style="margin-bottom: 
  50px">Subscription Plans</h1>
@@ -326,7 +328,7 @@ ul li i{
 
                         <h2 class="text-left animate__animated animate__fadeInLeft animate__delay-2s">Learn how to build a research project from scratch, Boost your skills,
                             and contribute to evidence by publishing your work. </h2>
-                        <a href="signup.php" class="btn btn-outline-secondary btn-large">Join Now</a>
+                        <a href="#joinNow" class="btn btn-outline-secondary btn-large a">Join Now</a>
                     </div>
                     <div class="col-sm-6">
                         <img class="img-responsive" src="images/Group%204.png" alt="">
@@ -351,17 +353,17 @@ ul li i{
                         <ul class="list-unstyled three-columns">
                             <li style="color: #eee">Email: info@evisimple.com </li>
                             <ul class="list-unstyled social-list">
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD -->
                             
                             <a href="https://www.facebook.com/evisimple">   <li>Facebook: <i class="fab fa-facebook fa-lg"style="color:  #fff;" ></i></li></a> 
                              
-=======
+<!-- ======= -->
 
-                                <a href="https://www.facebook.com/evisimple">
+                                <!-- <a href="https://www.facebook.com/evisimple">
                                     <li>Facebook: <i class="fab fa-facebook fa-lg"></i></li>
-                                </a>
+                                </a> -->
 
->>>>>>> 05b99feea0bb17ab36e8d84a123fadc7d1eb2c19
+<!-- >>>>>>> 05b99feea0bb17ab36e8d84a123fadc7d1eb2c19 -->
                             </ul>
                         </ul>
                     </div>
